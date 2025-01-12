@@ -1,7 +1,7 @@
 url: https://msalta.ciudadana.ar/api/beneficios/status
-status: down
-code: 503
-responseTime: 106
-lastUpdated: 2025-01-12T08:29:16.744Z
+status: up
+code: 200
+responseTime: 79
+lastUpdated: 2025-01-12T12:32:59.510Z
 startTime: 2025-01-10T22:29:34.715Z
 generator: Upptime <https://github.com/upptime/upptime>
