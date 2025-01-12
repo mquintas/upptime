@@ -4,19 +4,19 @@
     "url": "https://msalta.ciudadana.ar/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/msalta.ciudadana.ar.ico",
     "slug": "ciudadana-core",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 225,
-    "timeDay": 244,
-    "timeWeek": 225,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "status": "up",
+    "uptime": "89.33%",
+    "uptimeDay": "83.07%",
+    "uptimeWeek": "89.33%",
+    "uptimeMonth": "89.33%",
+    "uptimeYear": "89.33%",
+    "time": 238,
+    "timeDay": 264,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-01-12": 0
+      "2025-01-12": 244
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://msalta.ciudadana.ar/api/integraciones/status",
     "icon": "https://icons.duckduckgo.com/ip3/msalta.ciudadana.ar.ico",
     "slug": "integraciones",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 44,
-    "timeDay": 64,
-    "timeWeek": 44,
-    "timeMonth": 44,
-    "timeYear": 44,
+    "status": "up",
+    "uptime": "89.33%",
+    "uptimeDay": "83.08%",
+    "uptimeWeek": "89.33%",
+    "uptimeMonth": "89.33%",
+    "uptimeYear": "89.33%",
+    "time": 50,
+    "timeDay": 68,
+    "timeWeek": 50,
+    "timeMonth": 50,
+    "timeYear": 50,
     "dailyMinutesDown": {
-      "2025-01-12": 0
+      "2025-01-12": 244
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://msalta.ciudadana.ar/api/beneficios/status",
     "icon": "https://icons.duckduckgo.com/ip3/msalta.ciudadana.ar.ico",
     "slug": "beneficios",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 44,
-    "timeDay": 64,
-    "timeWeek": 44,
-    "timeMonth": 44,
-    "timeYear": 44,
+    "status": "up",
+    "uptime": "89.33%",
+    "uptimeDay": "83.07%",
+    "uptimeWeek": "89.33%",
+    "uptimeMonth": "89.33%",
+    "uptimeYear": "89.33%",
+    "time": 50,
+    "timeDay": 69,
+    "timeWeek": 50,
+    "timeMonth": 50,
+    "timeYear": 50,
     "dailyMinutesDown": {
-      "2025-01-12": 0
+      "2025-01-12": 244
     }
   }
 ]
