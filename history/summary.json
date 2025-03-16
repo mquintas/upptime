@@ -1,8 +1,8 @@
 [
   {
     "name": "Ciudadana core",
-    "url": "https://msalta.ciudadana.ar/api/status",
-    "icon": "https://icons.duckduckgo.com/ip3/msalta.ciudadana.ar.ico",
+    "url": "$CORE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ciudadana-core",
     "status": "up",
     "uptime": "99.74%",
@@ -10,19 +10,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 228,
-    "timeDay": 189,
-    "timeWeek": 189,
-    "timeMonth": 189,
-    "timeYear": 228,
+    "time": 227,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2025-01-12": 244
     }
   },
   {
     "name": "Integraciones",
-    "url": "https://msalta.ciudadana.ar/api/integraciones/status",
-    "icon": "https://icons.duckduckgo.com/ip3/msalta.ciudadana.ar.ico",
+    "url": "$INTE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "integraciones",
     "status": "up",
     "uptime": "99.70%",
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 42,
-    "timeDay": 33,
-    "timeWeek": 33,
-    "timeMonth": 33,
+    "timeDay": 27,
+    "timeWeek": 27,
+    "timeMonth": 27,
     "timeYear": 42,
     "dailyMinutesDown": {
       "2025-01-21": 36,
@@ -42,8 +42,8 @@
   },
   {
     "name": "Beneficios",
-    "url": "https://msalta.ciudadana.ar/api/beneficios/status",
-    "icon": "https://icons.duckduckgo.com/ip3/msalta.ciudadana.ar.ico",
+    "url": "$BENE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "beneficios",
     "status": "up",
     "uptime": "99.74%",
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 41,
-    "timeDay": 35,
-    "timeWeek": 35,
-    "timeMonth": 35,
+    "timeDay": 28,
+    "timeWeek": 28,
+    "timeMonth": 28,
     "timeYear": 41,
     "dailyMinutesDown": {
       "2025-01-12": 244
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 463,
-    "timeWeek": 463,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "time": 535,
+    "timeDay": 535,
+    "timeWeek": 535,
+    "timeMonth": 535,
+    "timeYear": 535,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 15,
-    "timeDay": 15,
-    "timeWeek": 15,
-    "timeMonth": 15,
-    "timeYear": 15,
+    "time": 25,
+    "timeDay": 25,
+    "timeWeek": 25,
+    "timeMonth": 25,
+    "timeYear": 25,
     "dailyMinutesDown": {}
   }
 ]
