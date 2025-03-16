@@ -4,11 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Ciudadana core
-    url: https://msalta.ciudadana.ar/api/status
+    url: $CORE
   - name: Integraciones
-    url: https://msalta.ciudadana.ar/api/integraciones/status
+    url: $INTE
   - name: Beneficios
-    url: https://msalta.ciudadana.ar/api/beneficios/status
+    url: $BENE
   - name: SMT reclamos
     url: $SMT_RECLAMOS
     expectedStatusCodes:
