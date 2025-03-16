@@ -1,7 +1,7 @@
-url: https://msalta.ciudadana.ar/api/status
+url: $CORE
 status: up
 code: 200
-responseTime: 189
-lastUpdated: 2025-03-16T22:43:57.844Z
+responseTime: 179
+lastUpdated: 2025-03-16T23:03:22.344Z
 startTime: 2025-01-10T22:29:33.761Z
 generator: Upptime <https://github.com/upptime/upptime>
