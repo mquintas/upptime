@@ -9,6 +9,20 @@ sites:
     url: https://msalta.ciudadana.ar/api/integraciones/status
   - name: Beneficios
     url: https://msalta.ciudadana.ar/api/beneficios/status
+  - name: SMT reclamos
+    url: $SMT_RECLAMOS
+    expectedStatusCodes:
+      - 200
+      - 400
+      - 401
+      - 404
+  - name: SMT turnos
+    url: $SMT_TURNOS    
+    expectedStatusCodes:
+      - 200
+      - 400
+      - 401
+      - 404
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
