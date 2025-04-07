@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 231,
-    "timeDay": 170,
-    "timeWeek": 194,
-    "timeMonth": 234,
-    "timeYear": 231,
+    "time": 233,
+    "timeDay": 341,
+    "timeWeek": 215,
+    "timeMonth": 238,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2025-01-12": 244
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 41,
-    "timeDay": 33,
-    "timeWeek": 33,
-    "timeMonth": 40,
-    "timeYear": 41,
+    "time": 42,
+    "timeDay": 86,
+    "timeWeek": 41,
+    "timeMonth": 41,
+    "timeYear": 42,
     "dailyMinutesDown": {
       "2025-01-21": 36,
       "2025-01-12": 244
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 41,
-    "timeDay": 33,
-    "timeWeek": 34,
-    "timeMonth": 41,
-    "timeYear": 41,
+    "time": 42,
+    "timeDay": 86,
+    "timeWeek": 43,
+    "timeMonth": 42,
+    "timeYear": 42,
     "dailyMinutesDown": {
       "2025-01-12": 244
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 717,
-    "timeDay": 658,
-    "timeWeek": 683,
-    "timeMonth": 717,
-    "timeYear": 717,
+    "time": 721,
+    "timeDay": 823,
+    "timeWeek": 701,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2025-04-01": 28,
       "2025-03-17": 19
@@ -87,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smt-turnos",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 163,
-    "timeDay": 175,
-    "timeWeek": 168,
-    "timeMonth": 163,
-    "timeYear": 163,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 164,
+    "timeDay": 186,
+    "timeWeek": 172,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2025-03-17": 19
     }
