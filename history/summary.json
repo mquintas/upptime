@@ -65,18 +65,19 @@
     "url": "$SMT_RECLAMOS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smt-reclamos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.20%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
     "time": 721,
-    "timeDay": 744,
+    "timeDay": 829,
     "timeWeek": 702,
     "timeMonth": 721,
     "timeYear": 721,
     "dailyMinutesDown": {
+      "2025-04-09": 1,
       "2025-04-08": 26,
       "2025-04-01": 28,
       "2025-03-17": 19
@@ -87,9 +88,9 @@
     "url": "$SMT_TURNOS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smt-turnos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -99,6 +100,7 @@
     "timeMonth": 165,
     "timeYear": 165,
     "dailyMinutesDown": {
+      "2025-04-09": 0,
       "2025-03-17": 19
     }
   }
